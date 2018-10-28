@@ -2,6 +2,8 @@ https://trello.com/b/pdh1Ettn/ronnie-miksch-lambda-notes-app
 
 currently deployed at: https://lamdba-notes.herokuapp.com
 
+server repo: https://github.com/myxozoa/Dry-Notes-Back-End
+
 
 # Front End Project Week
 This week you will be building a minimum viable product (MVP) for a note taking app called "Lambda Notes."
