@@ -1,6 +1,6 @@
 https://trello.com/b/pdh1Ettn/ronnie-miksch-lambda-notes-app
 
-currently deployed at: https://lamdba-notes.herokuapp.com
+currently deployed at: https://lamdb-notes.herokuapp.com
 
 server repo: https://github.com/myxozoa/Dry-Notes-Back-End
 
